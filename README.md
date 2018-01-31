@@ -6,9 +6,11 @@ This is probably my favorite app I made using Orange Engine, just because of how
 
 # License
 
-I am releasing this app's source code and all\* of its assets under the Creative Commons CC BY-SA 4.0 license. To find a summary and the full license text, [visit this page](https://creativecommons.org/licenses/by-sa/4.0/)
+I am releasing this app's source code\* and all\* of its assets under the Creative Commons CC BY-SA 4.0 license. To find a summary and the full license text, [visit this page](https://creativecommons.org/licenses/by-sa/4.0/)
 
-\* The original icons are not included because they're not mine. In their place I've added some quick doodles...
+\* This repo includes code third party code which is not governed by this license. [See source repo here for the relevant license](https://github.com/yukuku/ambilwarna).
+
+\*\* The original icons are not included because they're not mine. In their place I've added some quick doodles...
 
 ## Quick back story
 
