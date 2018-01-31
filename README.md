@@ -2,7 +2,9 @@
 
 * *the faster you tap, the faster they clack!*
 
-This is probably my favorite app I made using Orange Engine, just because of how dumb it is :P
+[Google Play store link](https://play.google.com/store/apps/details?id=com.snakeinalake.virtualdice)
+
+This is probably my favorite app I made using Orange Engine, just because of how dumb it is. At one point in its history I got bored and decided to entertain myself by adding stupid features to this thing. See the Play Store description for more on that...
 
 # License
 
